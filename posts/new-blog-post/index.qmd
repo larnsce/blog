@@ -1,0 +1,20 @@
+---
+title: "My second blog"
+author: "Linda"
+date: "2022-08-02"
+categories: [news]
+---
+
+# Heading 1
+
+```{r}
+1 + 1
+```
+
+# Heading 2
+
+```{r}
+
+```
+
+![](https://rbtl-fs22.github.io/website/posts/week15/img/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash.jpg)
